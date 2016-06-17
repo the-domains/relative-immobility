@@ -1,9 +1,18 @@
-layout_spectrum: 0.40757881943136454
-typography_spectrum: 0.6882846816442907
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.76803645840846
-  lightness: 0.8764281875919551
   saturation: 0.04708049423061311
+  brandStrength: 0.76803645840846
   rhythmicContrast: 0.9738897399511188
   brandColors:
     - '#595241'
@@ -11,4 +20,7 @@ color:
     - '#FFFFFF'
     - '#ACCFCC'
     - '#8A0917'
+  lightness: 0.8764281875919551
+typography_spectrum: 0.07330827
+layout_spectrum: 0.2625313
 name: relative immobility
