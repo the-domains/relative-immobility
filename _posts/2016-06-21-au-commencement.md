@@ -2,10 +2,10 @@
 author: []
 title: Au commencement
 description: ''
-dateModified: '2016-06-17T19:13:44.953Z'
-datePublished: '2016-06-21T01:10:02.079Z'
-starred: false
+dateModified: '2016-06-21T01:11:16.343Z'
+datePublished: '2016-06-21T01:14:13.967Z'
 sourcePath: _posts/2016-06-21-au-commencement.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
