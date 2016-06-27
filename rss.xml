@@ -2,16 +2,30 @@
     <channel>
         <title><![CDATA[Tiny Blog of a Tiny Journey]]></title>
         <description><![CDATA[Tiny Blog of a Tiny Journey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/relative-immobility/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 14:40:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 14:41:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/relative-immobility/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e29d1a6-513a-4561-a6bb-847bff700c3c.jpg">]]></description>
-            <link>undefined758e5721-3969-47cc-bf69-d1a930bb1b58/index.html</link>
+            <link>https://thegrid.ai/relative-immobility/758e5721-3969-47cc-bf69-d1a930bb1b58/index.html</link>
             <guid isPermaLink="false">758e5721-3969-47cc-bf69-d1a930bb1b58</guid>
             <pubDate>Mon, 27 Jun 2016 14:40:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de05f6b5-9066-4df9-9e12-7b84b3778f5b.jpg">]]></description>
+            <link>https://thegrid.ai/relative-immobility/05e96811-2b76-41c5-80d0-8a93124a533f/index.html</link>
+            <guid isPermaLink="false">05e96811-2b76-41c5-80d0-8a93124a533f</guid>
+            <pubDate>Mon, 27 Jun 2016 14:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a5d030b-cbd4-4e0d-9388-5dd3f6e456b1.jpg">]]></description>
+            <link>https://thegrid.ai/relative-immobility/5e638e20-b5c9-4867-8c10-bbac5998c4dd/index.html</link>
+            <guid isPermaLink="false">5e638e20-b5c9-4867-8c10-bbac5998c4dd</guid>
+            <pubDate>Mon, 27 Jun 2016 14:40:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
