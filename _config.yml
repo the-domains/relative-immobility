@@ -15,8 +15,7 @@ author:
   email: contact@tinyblogofatinyjourney.com
 logo: null
 name: Tiny Blog of a Tiny Journey
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/843d37fe-d335-4e86-9aaf-f02287dfe5cd.png
+favicon: null
 collections:
   - index:
       path: /
