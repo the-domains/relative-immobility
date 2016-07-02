@@ -1,3 +1,20 @@
+typography_spectrum: 0.07330827
+color:
+  saturation: 0.04708049423061311
+  brandStrength: 0.76803645840846
+  rhythmicContrast: 0.9738897399511188
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  lightness: 0.8764281875919551
+layout_spectrum: 0.2625313
+logo: null
+name: Tiny Blog of a Tiny Journey
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/843d37fe-d335-4e86-9aaf-f02287dfe5cd.png
 collections:
   - index:
       path: /
@@ -10,17 +27,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.04708049423061311
-  brandStrength: 0.76803645840846
-  rhythmicContrast: 0.9738897399511188
-  brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-  lightness: 0.8764281875919551
-typography_spectrum: 0.07330827
-layout_spectrum: 0.2625313
-name: relative immobility
