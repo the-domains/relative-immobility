@@ -1,6 +1,6 @@
 author:
   email: contact@tinyblogofatinyjourney.com
-name: Tiny Blog of a Tiny Journey
+favicon: null
 collections:
   - index:
       path: /
@@ -26,5 +26,5 @@ color:
     - '#8A0917'
   lightness: 0.8764281875919551
 typography_spectrum: 0.07330827
-layout_spectrum: 0
-favicon: null
+layout_spectrum: 1
+name: Tiny Blog of a Tiny Journey
