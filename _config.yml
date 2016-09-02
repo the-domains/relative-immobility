@@ -1,4 +1,19 @@
-typography_spectrum: 0.07330827
+author:
+  email: contact@tinyblogofatinyjourney.com
+name: Tiny Blog of a Tiny Journey
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+logo: null
 color:
   saturation: 0.04708049423061311
   brandStrength: 0.76803645840846
@@ -10,21 +25,6 @@ color:
     - '#ACCFCC'
     - '#8A0917'
   lightness: 0.8764281875919551
-layout_spectrum: 0.2625313
-author:
-  email: contact@tinyblogofatinyjourney.com
-logo: null
-name: Tiny Blog of a Tiny Journey
+typography_spectrum: 0.07330827
+layout_spectrum: 0
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
