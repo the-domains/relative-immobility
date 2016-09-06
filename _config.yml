@@ -1,16 +1,16 @@
-typography_spectrum: 0.07330827
+layout_spectrum: 0.4265308922622353
+typography_spectrum: 0.5561194159090519
 color:
-  saturation: 0.04708049423061311
-  brandStrength: 0.76803645840846
-  rhythmicContrast: 0.9738897399511188
+  saturation: 0.38542727706953883
+  brandStrength: 0.7187574282288551
+  rhythmicContrast: 0.21348909568041563
   brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-  lightness: 0.8764281875919551
-layout_spectrum: 1
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  lightness: 0.21549363271333277
 author:
   email: contact@tinyblogofatinyjourney.com
 logo: null
