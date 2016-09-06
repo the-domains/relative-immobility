@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Tiny Blog of a Tiny Journey]]></title>
         <description><![CDATA[Tiny Blog of a Tiny Journey]]></description>
-        <link>https://thegrid.ai/relative-immobility/</link>
+        <link>https://thegrid.ai/tinyblog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 12:57:16 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/relative-immobility/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 14:42:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tinyblog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mark Wiens is starting his world tour ! ]]></title>
+            <description><![CDATA[<article><h1>Mark Wiens is starting his world tour ! </h1><p>If you are a food lover, this is something you don’t want to miss out ! </p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a2883d1738a4bc82b90d25586cd38dc3/croprotate.jpg?cropheight=288&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fssshx__9azA%2Fhqdefault.jpg&x=0&y=32"></article>]]></description>
+            <link>https://youtu.be/ssshx__9azA</link>
+            <guid isPermaLink="false">47e5df1c-48c2-44c3-a2ed-74e332eae09e</guid>
+            <pubDate>Fri, 02 Sep 2016 14:42:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sagrada Familia]]></title>
             <description><![CDATA[<article><h1>Sagrada Familia</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/912cbab1-eeef-43a7-a7d8-c349f0602373.jpg"></article>]]></description>
@@ -16,7 +23,7 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c6a58d-16b4-44c6-85eb-e5e493bfa47a.jpg">]]></description>
-            <link>https://thegrid.ai/relative-immobility/5b769dd2-1619-4b3b-b417-28c6081e47d9/index.html</link>
+            <link>https://thegrid.ai/tinyblog/5b769dd2-1619-4b3b-b417-28c6081e47d9/index.html</link>
             <guid isPermaLink="false">5b769dd2-1619-4b3b-b417-28c6081e47d9</guid>
             <pubDate>Mon, 27 Jun 2016 14:40:19 GMT</pubDate>
         </item>
