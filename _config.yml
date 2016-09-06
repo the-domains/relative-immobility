@@ -1,5 +1,20 @@
+typography_spectrum: 0.07330827
+color:
+  saturation: 0.04708049423061311
+  brandStrength: 0.76803645840846
+  rhythmicContrast: 0.9738897399511188
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  lightness: 0.8764281875919551
+layout_spectrum: 1
 author:
   email: contact@tinyblogofatinyjourney.com
+logo: null
+name: Tiny Blog of a Tiny Journey
 favicon: null
 collections:
   - index:
@@ -13,18 +28,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-logo: null
-color:
-  saturation: 0.04708049423061311
-  brandStrength: 0.76803645840846
-  rhythmicContrast: 0.9738897399511188
-  brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-  lightness: 0.8764281875919551
-typography_spectrum: 0.07330827
-layout_spectrum: 1
-name: Tiny Blog of a Tiny Journey
+description: of a Tiny Journey
