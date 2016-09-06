@@ -28,4 +28,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: a Tiny Blog
 description: of a Tiny Journey
